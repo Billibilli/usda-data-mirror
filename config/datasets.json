@@ -1,0 +1,16 @@
+{
+  "datasets": [
+    {
+      "key": "downbound_grain_barge_rates",
+      "id": "deqi-uken",
+      "domain": "agtransport.usda.gov",
+      "limit": 50000
+    },
+    {
+      "key": "one_month_future_barge_rates",
+      "id": "svms-9yya",
+      "domain": "agtransport.usda.gov",
+      "limit": 50000
+    }
+  ]
+}
